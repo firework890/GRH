@@ -1,0 +1,11 @@
+# Word / WPS 临时锁文件
+~$*
+
+# 系统与编辑器杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# 与 Proof-of-GRH_1826_facsimile.html 内容完全相同的重复副本
+广义黎曼假设_1826年柏林科学院学报本.html
